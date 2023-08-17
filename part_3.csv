@@ -1,0 +1,6 @@
+batch_size = 256 
+learning_rate = 0.00001 
+num_layers = 1 
+num_units = 128 
+lamda = 0.8 
+number of features = 71
